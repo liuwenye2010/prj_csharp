@@ -1,0 +1,13 @@
+install dotnet core 
+
+mkdir temp 
+cd temp 	
+dotnet new  consloe
+
+dotnet run
+
+dotnet build 
+
+##you can use vscode to debug C# code  
+
+##you can use xamarin to develop cross-platform APP with C#  (Windows,Mac,Android,IOS)
