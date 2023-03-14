@@ -4,7 +4,7 @@ csc_buid=csc.exe /out:
 
 all: build run
 build:
-	$(csc_buid)out.exe Program.cs
+	$(csc_buid)out.exe *.cs
 
 run:
 	./out.exe
